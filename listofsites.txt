@@ -1,0 +1,36 @@
+So this isn't code, but I guess this is a good way to start sharing ideas and notes.  
+
+Just a little list of the dapps or web3.0 sites that I think are cool:
+
+1) Market place for cryptolectabiles
+https://opensea.io/
+
+2) Answer questions and earn ETH
+https://cent.co/
+
+3) Of course the game, with my referrence link.  You can use your own ETH address in place of mine and that will be your ref link
+0xuniverse.com/?utm_source=referral&utm_medium=0xa43d3CFaF7A968d008e693D193d892c3474622CC
+
+4) Smart contract creation platform that I started using.  It was cool since it was free at first, but messed up the first few I tried.
+Also, since I use it to interface with some of the contracts I created, it doesn't feel like I have 100% control over them.
+https://smartz.io
+
+5) The latest blockchain dApp game I started messing with.  If you go to their discord and tell them I sent you, the one dev will gift you
+some axies to get started.  It's really cheap to hatch and to fight them it costs nothing and will gain their experience.
+https://axieinfinity.com/#
+
+6) This is a useful tool to install for development.  Ganache fires up a personal Ethereum blockchain which you can use to run tests,
+execute commands, and inspect state while controlling how the chain operates.
+https://truffleframework.com/ganache
+ 
+7) NodeJs an essential tool for ethereum dapp development.  It helps build scalable network applications that will interact
+with Ethereum node.  You also need npm installed as well(sudo apt install npm).
+https://nodejs.org/en/
+ 
+8) Geth or go-ethereum client is the the command line interface for running a full ethereum node implemented in Go.
+https://github.com/ethereum/go-ethereum 
+
+
+
+
+...fill free to add to the list!
